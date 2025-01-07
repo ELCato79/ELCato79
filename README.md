@@ -1,4 +1,4 @@
-# justACat
+
 # 💫 About Me:
 🧠 learning and exploring the depths of data science.<br>🐾 Believer in the philosophy: “Curiosity didn’t kill the cat—it made it smarter!”
 
